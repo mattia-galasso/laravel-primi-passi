@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>👋🏻 Hello World! 👋🏻</h1>
-        <h2>3️⃣ - Benvenuto nella pagina Crediti</h2>
+        <h2>{{$welcome}}</h2>
     </header>
     <main>
         <h2>Altre pagine:</h2>

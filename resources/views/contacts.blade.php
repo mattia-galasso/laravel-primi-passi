@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>👋🏻 Hello World! 👋🏻</h1>
-        <h2>2️⃣ - Benvenuto nella pagina Contatti</h2>
+        <h2>{{$welcome}}</h2>
     </header>
     <main>
         <h2>Altre pagine:</h2>
